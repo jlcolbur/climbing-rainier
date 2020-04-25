@@ -1,1 +1,2 @@
 # climbing-rainier
+The purpose of this analysis was to explore available data on summit attempts on Mount Rainier over two years, investigating if weather conditions can be used to determine  conditions most conducive for a successful summit. After combining the weather data with the summit attempt data (including group size, number of summits, and route), analysis was done to find how correlated the variables were before then using random forest and association rule mining to predict on likelihood of a successful summit.
